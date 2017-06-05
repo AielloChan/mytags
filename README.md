@@ -1,2 +1,2 @@
-# stars
-My stars.
+# Tags
+My interest repository tags.
