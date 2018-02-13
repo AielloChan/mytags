@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "globalTagIndex": 6,
+  "globalTagIndex": 9,
   "tags": [{
       "id": 1,
       "name": "Github"
@@ -20,9 +20,21 @@
     {
       "id": 5,
       "name": "iCloud"
+    },
+    {
+      "id": 6,
+      "name": "Boom"
+    },
+    {
+      "id": 7,
+      "name": "Test"
+    },
+    {
+      "id": 8,
+      "name": "Hello"
     }
   ],
   "repos": {
-    "AielloChan/Github-tags": [1, 2, 4, 5]
+    "AielloChan/Github-tags": [1, 2, 4, 5, 7, 8]
   }
 }
