@@ -1,1 +1,28 @@
-{"version":"1.0","globalTagIndex":5,"tags":{"1":"Github","2":"Tools","3":"Developing","4":"hehe"},"repos":{"AielloChan/Github-tags":[1]}}
+{
+  "version": "1.0",
+  "globalTagIndex": 6,
+  "tags": [{
+      "id": 1,
+      "name": "Github"
+    },
+    {
+      "id": 2,
+      "name": "Javascript"
+    },
+    {
+      "id": 3,
+      "name": "Tools"
+    },
+    {
+      "id": 4,
+      "name": "Chrome"
+    },
+    {
+      "id": 5,
+      "name": "iCloud"
+    }
+  ],
+  "repos": {
+    "AielloChan/Github-tags": [1, 2]
+  }
+}
